@@ -1,7 +1,5 @@
 # llm-chatbot
 An AI chatbot build with python ,Langchain, and huggingFace TinyLIama model.
-# LLM Chatbot
-
 This is a simple chatbot built using LangChain and HuggingFace.
 
 ## Features
